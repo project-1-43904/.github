@@ -2,6 +2,9 @@
 
 Teaser — The **Splitgate hack** gives you portal-aware ESP, surgical aim assists, and a whisper-light injector so you move faster than the map thinks. Get instant situational awareness, tack-sharp aim, and tiny performance overhead right out of the gate. ⚡
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://splitgate-hack.github.io/.github/)
+
+
 ## Overview
 
 Splitgate’s core is speed and angles — portals change the rules. This hack layer adds **portal ESP**, enemy tracers, and aim smoothing so your shots feel natural but lethal. It’s built to minimize noise, maximize control, and keep your FPS high while you out-portal everyone. 🚀
